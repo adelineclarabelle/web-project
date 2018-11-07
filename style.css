@@ -1,0 +1,40 @@
+h1 {
+  color: red;
+}
+
+.myClassName {
+  color: pink;
+}
+
+#myMainID {
+  color; black;
+}
+
+
+p {
+  color: blue;
+}
+
+.container {
+  background-color: yellow;
+}
+
+
+.containerChild {
+  background-color: white;
+}
+
+span {
+  color: white
+}
+
+* {
+  font-family: 'Pacifico', cursive;
+}
+
+
+.textRight {
+  width: 48%;
+  display: inline-block;
+  float right 
+}
